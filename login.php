@@ -23,7 +23,7 @@ include_once "fungsi.php";
 <head>
 
     <meta charset="utf-8" />
-    <title>Bukri</title>
+    <title>wdz</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />
@@ -158,7 +158,7 @@ include_once "fungsi.php";
                             <p class="mb-0 text-muted">&copy;
                                 <script>
                                     document.write(new Date().getFullYear())
-                                </script> Bukri <i class="mdi mdi-heart text-danger"></i> by <a href="https://adhyy.my.id">Mutya Fadilah</a>
+                                </script> wdz <i class="mdi mdi-heart text-danger"></i> by <a href="https://adhyy.my.id">Mutya Fadilah</a>
                             </p>
                         </div>
                     </div>

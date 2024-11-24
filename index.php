@@ -18,7 +18,7 @@ include_once 'fungsi.php';
 <head>
 
     <meta charset="utf-8" />
-    <title>Bukri</title>
+    <title>wdz</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />
@@ -177,7 +177,7 @@ include_once 'fungsi.php';
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-sm-6">
-                            <script>document.write(new Date().getFullYear())</script> © Bukri
+                            <script>document.write(new Date().getFullYear())</script> © wdz
                         </div>
                         
                     </div>
